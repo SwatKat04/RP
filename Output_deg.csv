@@ -1,0 +1,252 @@
+,id,text,pred_deg,emotions,Degree
+0,1,Mortar assault leaves at least 18 dead,0.5,sadness,50
+1,2,Goal delight for Sheva,0.5,joy,50
+2,3,Nigeria hostage feared dead is freed,0.5,joy,50
+3,4,Bombers kill shoppers,0.5,fear,50
+4,5,"Vegetables, not fruit, slow brain decline",0.5,surprise,50
+5,6,PM: Havana deal a good experiment,0.25,joy,25
+6,7,Kate is marrying Doherty,0.5,joy,50
+7,8,NASA revisiting life on Mars question,0.25,surprise,25
+8,9,"Happy birthday, iPod",0.5,joy,50
+9,10,Alonso would be happy to retire with three titles,0.5,joy,50
+10,11,Madonna's New Tot 'Happy at Home' in London,0.5,joy,50
+11,12,Nicole Kidman asks dad to help stop husband's drinking,0.25,sadness,25
+12,13,United Finds Good Connection in Win,0.5,joy,50
+13,14,'Runway': Making Good Without Making Nice,0.25,joy,25
+14,15,"We were 'arrogant and stupid' over Iraq, says US diplomat",0.5,sadness,50
+15,16,Bad reasons to be good,0.25,sadness,25
+16,17,Madonna's new baby's daddy didn't realize adoption was `for good',0.5,surprise,50
+17,18,Women in their 60s 'are perfectly good mothers',0.25,sadness,25
+18,19,We're a pretty kind 'bully',0.25,joy,25
+19,20,Moderate drinking reduces men's heart attack risk,0.5,joy,50
+20,21,Tom Cruise and Katie Holmes set wedding date,0.5,joy,50
+21,22,Kidnapped AP photographer freed in Gaza,0.5,fear,50
+22,23,"Bush Insists Troops Stay in Iraq, Predicts Midterm Victory",0.5,disgust,50
+23,24,Hurricane Paul Weakens To Tropical Storm,0.25,surprise,25
+24,25,UK announces immigration restrictions,0.5,anger,50
+25,26,Three found alive from missing Russian ship -report,0.5,joy,50
+26,27,Poison Pill to Swallow: Hawks Hurting After Loss to Vikes,0.25,sadness,25
+27,28,Injured Marathon Winner Leaves Hospital,0.5,joy,50
+28,29,Hacker unlocks Apple music download protection,0.5,surprise,50
+29,30,Spanish journalist seized in Gaza,0.5,fear,50
+30,31,Sudan urges UN to replace its special envoy,0.25,surprise,25
+31,32,Resolution approved for international games,0.5,joy,50
+32,33,Pair of Satellites Will Document Sun in 3-D,0.5,joy,50
+33,34,Martian Life Could Have Evaded Detection by Viking Landers,0.25,surprise,25
+34,35,The sweet tune of an anniversary,0.5,joy,50
+35,36,Did Viking Probes Miss Life on Mars?,0.5,surprise,50
+36,37,Diplomat acknowledges US arrogance in Iraq,0.5,anger,50
+37,38,More Human Remains Found at Ground Zero,0.5,sadness,50
+38,39,How to Prevent Iraq From Getting Even Worse,0.5,fear,50
+39,40,Tensions as Hungary marks uprising,0.25,fear,25
+40,1250,Indonesian with bird flu dies,1.0,sadness,100
+41,1251,St. Louis poised for entertainment upswing,1.0,joy,100
+42,1252,New York City may ban iPods while crossing street,0.25,surprise,25
+43,1253,Boy allegedly told to kill by mom gives up,1.0,sadness,100
+44,1254,Gray wolves off endangered list,1.0,joy,100
+45,1255,Vista's hyped security will be tested,0.25,joy,25
+46,1256,UK police slammed over terror raid,1.0,fear,100
+47,1257,Mogadishu residents flee blasts,0.25,fear,25
+48,1258,Bomb kills 18 on military bus in Iran,1.0,sadness,100
+49,1259,"'WarioWare,' Wii make perfect fit",0.25,joy,25
+50,1260,U.S. at odds with cleric's aide,0.25,fear,25
+51,1261,Desperate Iraqi mother relies on militia for help,1.0,sadness,100
+52,1262,Full details of the EU report on Iran,0.25,surprise,25
+53,1263,Singer on Cowell: Glad he was mean,0.25,joy,25
+54,1264,Jones faces Europe meetings snub,0.25,sadness,25
+55,1265,Beckham goal helps Real snatch win,1.0,joy,100
+56,1266,Guinea: Plan offices close as country declares emergency,1.0,fear,100
+57,1267,Japan's economy grows,1.0,joy,100
+58,1268,United Nations peacekeepers raid Haitian slum,0.25,joy,25
+59,1269,Work starts on Arctic seed vault,1.0,joy,100
+60,1270,Social networking goes mobile,1.0,joy,100
+61,1271,"Beauticians cut, curl, offer stroke-prevention info",1.0,joy,100
+62,1272,"Siesta cuts risk of heart disease death, study finds",1.0,surprise,100
+63,1273,Thomas Cook to merge with MyTravel,0.25,joy,25
+64,1274,Nap your way to a successful career,0.25,joy,25
+65,1275,Village buried by 100 inches of snow,1.0,sadness,100
+66,1276,Oprah announces new book club pick,1.0,joy,100
+67,1277,The science of love ... and lust,0.25,joy,25
+68,1278,"Northeaster cancels flights, shuts schools",1.0,sadness,100
+69,1279,Napping may be good for your heart,1.0,joy,100
+70,1280,Ryan O'Neal injured son's girlfriend,1.0,sadness,100
+71,1281,Chrysler's Valentine's Day massacre,1.0,sadness,100
+72,1282,Madrid bombings trial begins,1.0,fear,100
+73,1283,Fight starts over HPV vaccine,0.25,disgust,25
+74,1284,Autos drive European gains,1.0,joy,100
+75,1285,James Brown's partner can get her things,0.25,joy,25
+76,1286,Auto show canceled,0.25,sadness,25
+77,1287,UK luxury maker Burberry: 'Made in China'?,0.25,surprise,25
+78,1288,On-the-job naps might cut heart risk,1.0,joy,100
+79,1289,"No. 1 Florida survives Rupp Arena, streak hits 16",1.0,joy,100
+80,1290,J.K. Rowling marks spot of 'Potter's' end,0.25,sadness,25
+81,1291,Gronholm takes a commanding lead,0.25,joy,25
+82,1292,Howard slams Obama on Iraq policy,0.25,anger,25
+83,1293,Manila hints at ransom approval,0.25,sadness,25
+84,1294,Champion Murray too good for Kim,0.25,joy,25
+85,1295,"G7: Yen skates by, yuan singled out",0.25,sadness,25
+86,1296,Gunman 'was Srebrenica survivor',0.25,surprise,25
+87,1297,Cutting through the clutter to get things done,0.25,joy,25
+88,1298,Mother: Lohan is doing 'great' in rehab,1.0,joy,100
+89,1299,Who's going to win at the Grammys?,0.25,joy,25
+90,1300,"Libby defense upsets judge, rests",0.25,surprise,25
+91,1301,Breakup rings find new homes,0.25,sadness,25
+92,1302,Gronholm ahead as Solberg crashes,0.25,joy,25
+93,1303,'Norbit' a waste of Murphy,0.25,sadness,25
+94,1304,Rocky start for Bangkok airport,0.25,surprise,25
+95,1305,12 dead in Lebanese minibus bombings,1.0,sadness,100
+96,1306,Sex torture claims hit Russia army,1.0,disgust,100
+97,1307,Mega-marsupials once roamed Australia,1.0,surprise,100
+98,1308,Rupert Murdoch's secret TiVo,0.25,surprise,25
+99,1309,"UPDATE 1-Plane crashes at Moscow airport, no passengers",1.0,sadness,100
+100,1310,HPV vaccination stirs heated debate in America,1.0,surprise,100
+101,1311,Court TV: Accused killer tells jury a love story,1.0,surprise,100
+102,1312,Whistle-blowing Web site exposed,0.25,surprise,25
+103,1313,"Start late, retire rich",0.25,joy,25
+104,1314,Somali PM vows to bring Islamists to justice,0.25,anger,25
+105,1315,Swingers more common than most think,0.25,surprise,25
+106,1316,Anna Nicole Smith fans mourn in cyberspace,1.0,sadness,100
+107,1317,Antibiotic Ketek more dangerous than thought,1.0,fear,100
+108,1318,Time to book your cruise,1.0,joy,100
+109,1319,'Blazing Angels' for PS3 fails to soar,1.0,sadness,100
+110,1320,North Korea aid demand stall talks,0.25,sadness,25
+111,1321,Cartoon Network head steps down,1.0,sadness,100
+112,1322,Malaysia aggressively wooing tourists,1.0,joy,100
+113,1323,Anna Nicole Smith's Bahamas home seized,1.0,sadness,100
+114,1324,Andromeda involved in galactic collision,1.0,surprise,100
+115,1325,Rwanda mulling 3-kid limit for families,0.25,joy,25
+116,1326,Wilkinson sets record in tame win,1.0,joy,100
+117,1327,Army engineers say dam safe,1.0,joy,100
+118,1328,France: Al Qaeda suspects arrested,1.0,fear,100
+119,1329,Utah gunman survived Srebrenica,0.25,joy,25
+120,1330,Creating a whole album in a month?,1.0,surprise,100
+121,1331,India to test new nuclear missile,1.0,fear,100
+122,1332,G7 to China: Ease exchange rate grip,0.25,surprise,25
+123,1333,Hatton hands back IBF title again,0.25,joy,25
+124,1334,"Bernanke: Economy healthy, but...",0.25,fear,25
+125,1335,"Mickelson, Sutherland share lead",0.25,joy,25
+126,1336,"Napping is good for your heart, study finds",1.0,joy,100
+127,1337,Princess Masako author: No regrets,0.25,surprise,25
+128,1338,Students use IM-lingo in essays,1.0,surprise,100
+129,1339,Malaysia launches tourism campaign,1.0,joy,100
+130,1340,Study: Africa's Internet gap getting wider,1.0,sadness,100
+131,1341,Travel chaos as heavy snow hits UK,0.25,fear,25
+132,1342,Paula Abdul: 'I have never been drunk',0.25,surprise,25
+133,1343,Salmonella outbreak traced to peanut butter,1.0,fear,100
+134,1344,Putin: U.S. force fostering nuke ambitions,1.0,fear,100
+135,1345,"Nuke detectors to ring New York, official says",1.0,fear,100
+136,1346,Double bus-bombing kills three in Lebanon,1.0,sadness,100
+137,1347,Davydenko out as seeds scattered,0.25,surprise,25
+138,1348,Obama: I'm running for president,0.25,joy,25
+139,1349,Paterson boots Scotland to victory,1.0,joy,100
+140,1350,"African-Americans are organ donors these days, but what about bone marrow?",0.25,surprise,25
+141,1351,Study: On-the-job naps might help heart,1.0,joy,100
+142,1352,"Guinea capital largely calm under curfew, marital law",1.0,fear,100
+143,1353,Bosses sleeping on idea of letting workers take naps,1.0,surprise,100
+144,1354,Teacher's porn conviction sparks tech debate,1.0,disgust,100
+145,1355,Singapore pampers its waterfront promenade,1.0,joy,100
+146,1356,Rwanda mulls three-child limit,0.25,surprise,25
+147,1357,Samsung settles price-fixing lawsuit,0.25,joy,25
+148,1358,"Radical cleric al-Sadr in Iran, U.S. insists",0.25,fear,25
+149,1359,Reports: Harvard set to name first female president,1.0,joy,100
+150,1360,Iraq unveils new security plans,0.25,surprise,25
+151,1361,University offers support to New Orleans school,1.0,joy,100
+152,1362,"Storm causes slick, icy roads",1.0,fear,100
+153,1363,South Korea fire kills 10 foreigners,1.0,sadness,100
+154,1364,Prehistoric lovers found locked in eternal embrace,1.0,surprise,100
+155,1365,Charts: Is your city lean or lethargic?,0.25,surprise,25
+156,1366,Peru leader questioned in massacre probe,0.25,sadness,25
+157,1367,U.S. commander: Iraq not hopeless,0.25,joy,25
+158,1368,Australian PM stands by Obama attack,0.25,joy,25
+159,1369,Mardi Gras rebound in the offing for New Orleans?,1.0,joy,100
+160,1370,Siestas may cut heart disease risk,1.0,joy,100
+161,1371,"Oregon snorkeler mistaken for rodent, shot in face",1.0,sadness,100
+162,1372,Petraeus takes command in Iraq,0.25,fear,25
+163,1373,6 dead after Utah Mall shooting rampage,1.0,sadness,100
+164,1374,Sharks kill four people in 'dull' year,1.0,sadness,100
+165,1375,Record-shattering day on Wall St.,1.0,joy,100
+166,1376,Comedian says government silences critics,0.25,sadness,25
+167,1377,Rockers big winners at Brit Awards,1.0,joy,100
+168,1378,Samba school leader killed before Rio carnival,1.0,sadness,100
+169,1379,"Taiwan's 'Mr. Clean' indicted, steps down",1.0,sadness,100
+170,1380,Woman fights to keep drunken driver in jail,1.0,anger,100
+171,1381,Al Qaeda group calls for attacks on U.S. oil,1.0,fear,100
+172,1382,Cousin: Gunman was Srebrenica survivor,0.25,sadness,25
+173,1383,Turkmenistan votes for president,0.25,joy,25
+174,1384,Here is some advice to take to heart...,0.25,surprise,25
+175,1385,10 don't-miss tax breaks,0.25,joy,25
+176,1386,Police break up Kosovo protests,0.25,anger,25
+177,1387,Messi makes Barcelona squad return,0.25,joy,25
+178,1388,Jump reported in accidental drug-overdose deaths,1.0,sadness,100
+179,1389,Catania punished for fan violence,1.0,sadness,100
+180,1390,Isinbayeva sets 20th world record,1.0,joy,100
+181,1391,Lawmakers blast FDA drug safety oversight,0.25,anger,25
+182,1392,Regular naps make hearts healthy,1.0,joy,100
+183,1393,Ice stops trolleys cold,0.25,sadness,25
+184,1394,U.S. gunman 'was Srebrenica survivor',0.25,surprise,25
+185,1395,Outdated baby food found on shelves,0.25,disgust,25
+186,1396,Tow truck drivers accused of stealing cars,0.25,disgust,25
+187,1397,Bush: It's time for Congress to back energy plan,1.0,joy,25
+188,1398,UK soldiers cleared of Iraq abuse,1.0,joy,25
+189,1399,FDA revises label warnings on the antibiotic Ketek,1.0,joy,25
+190,1400,Toshiba Portege R400,0.25,joy,25
+191,1401,South Africa mourns Adelaide Tambo,1.0,sadness,100
+192,1402,Evacuees can return home after plant blast,1.0,joy,100
+193,1403,Anna Nicole Smith's body lies in legal limbo,1.0,sadness,100
+194,1404,Former teacher poses for Playboy,1.0,surprise,25
+195,1405,France rejects Rwandan investigators,0.25,anger,25
+196,1406,A nap a day may keep the heart doctor away,1.0,surprise,100
+197,1407,"Higley, Gonzalez lead in Malaysia",1.0,joy,25
+198,1408,Grammys ready to name winners,1.0,joy,100
+199,1409,Pound will not drop Armstrong case,0.25,anger,25
+200,1410,Reunited Police to start world tour in May,0.25,joy,100
+201,1411,Turkmen acting leader sworn in as new president,0.25,joy,25
+202,1412,Allen and Okur get All-Star call,1.0,joy,25
+203,1413,Svindal claims are golden double,1.0,joy,25
+204,1414,"Trolley Square shooting leaves 6 dead, including gunman",0.5,sadness,100
+205,1415,Bridge blast stops I-95 traffic,0.25,fear,100
+206,1416,"Mother, daughter stabbed near school",1.0,sadness,100
+207,1417,Excerpt: Politicians and the press,0.25,disgust,25
+208,1418,North Korea gets 'money and respect',1.0,joy,25
+209,1419,Beyonce in a bikini as SI's swimsuit cover model,0.25,joy,25
+210,1420,Loving with all your ... brain,0.25,surprise,100
+211,1421,Shoplifters' choice: Police or T-shirt of shame,0.25,surprise,25
+212,1422,Cuban official: Web a 'wild colt',1.0,fear,25
+213,1423,Slow 'Music and Lyrics',1.0,joy,25
+214,1424,Mexican navy helps in hunt for U.S. engineer,1.0,joy,25
+215,1425,Smith baby may not be pot of gold,1.0,sadness,25
+216,1426,Latest updates on world's top stories,0.25,fear,25
+217,1427,Beating leaves teen in coma,0.25,sadness,100
+218,1428,Tiempo Libre has Grammy dreams,0.25,joy,100
+219,1429,GPS sneakers locate with press of a button,0.25,surprise,25
+220,1430,Embattled Edwards blogger quits campaign,0.25,sadness,25
+221,1431,Britons deported from Somalia held under Terrorism Act,1.0,fear,100
+222,1432,Updates on world's top stories,0.25,fear,25
+223,1433,Breast cancer drug promises hope,1.0,joy,100
+224,1434,Ancient coin shows Cleopatra was no beauty,1.0,surprise,100
+225,1435,YouTube yields surprising payback,0.25,surprise,100
+226,1436,Up to 22 inches of snow in forecast,1.0,surprise,100
+227,1437,Werder make 10-man Ajax pay price,1.0,joy,25
+228,1438,EU condemns 'illegal' CIA flights,0.25,anger,100
+229,1439,Report links humans to global warming,0.25,fear,100
+230,1440,UN nuclear watchdog slashes Iran aid,1.0,anger,25
+231,1441,Survey: Tech a tool in teen dating abuse,1.0,sadness,100
+232,1442,The breast cancer breakthrough saving 1000 women a year,1.0,joy,100
+233,1443,"Tourist spot resists gravity, but not progress",0.25,sadness,25
+234,64,Scientists discover miracle in the depths,0.75,surprise,75
+235,68,Hurricane Paul nears Category 3 status,0.75,fear,75
+236,69,"Russian ship sinks, 18-member crew missing",0.75,sadness,75
+237,74,Bad weather slows S.Korean search for Russian ship,0.75,sadness,75
+238,75,Tailors and housewives busy as Muslims celebrate Eid,0.75,joy,75
+239,76,Active peace brings the promise of development,0.75,joy,75
+240,77,Abbas condemns Israeli massacre in northern Gaza Strip,0.75,disgust,75
+241,78,"Bangladesh ferry sinks, 15 dead",0.75,sadness,75
+242,81,Police warn of child exploitation online,0.75,disgust,75
+243,84,Three drivers had reason to be proud in Brazil,0.75,joy,75
+244,88,"Heavy use of mobile phones can make men infertile, scientists say",0.75,fear,75
+245,1502,I am extremely happy,0.5,joy,75
+246,1505,I am extremely sad,0.25,sadness,75
+247,1508,I am extremely scared,0.25,fear,75
+248,1511,I am extremely angry,0.25,anger,75
+249,1514,I am extremely disgusted,0.25,disgust,75
+250,1523,I am extremely surprise,0.25,surprise,75
