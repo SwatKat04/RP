@@ -3,7 +3,7 @@
 This is a robust LSTM emotion recognition system that can predict the emotion and the degree or extent of the emotion of a sentence. The model classifies each sentence into one of the following emotions - Joy, Sadness, Anger, Fear, Disgust and Surprise and one of these four levels or degrees - 0.25, 0.5, 0.75 and 1. These degrees indicate that higher the degree, greater is emphasis on expressiveness of the speech. The sentences along with their respective emotions and degrees are then relayed onto the IBM Watson Speech Synthesis API to convert text into speech.
 The idea is to have 24 varients (6 emotions x 4 degrees) of speech which the text or sentence can be converted to.
 
-**Published a Paper at the ICCIDS 2020 conference with the proceedings going to the Springer IFIP series**
+**Presented a Paper at the ICCIDS 2020 conference with the proceedings published in the Springer IFIP series**
 
 ## Training DataSet
 
